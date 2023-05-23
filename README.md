@@ -36,6 +36,9 @@ Para rodar os testes unitários, execute o comando abaixo:
 ```
 mvn test
 ```
+## Desenho Projeto
+![image](https://github.com/TalesCaioParisotto/carrefour/assets/129349183/85ab8504-3347-423b-b3fd-8f13c5d31dfc)
+
 
 ## Padrões de microserviço utilizados
 * Separação em camadas (Controller, Service e Repository)
